@@ -5,7 +5,7 @@ This repository contains all the code used in the empirical tests conducted in t
 This repository is organized as follows:
 
 * **PerformanceMetricsImbalancedDomains.ipynb** file - contains all the code for reproducing the experiments presented in the paper;
-* **Data** folder - contains the data sets used in the experiments carried out;
+* **Data** folder - contains the data sets used in the experiments carried out, taken from the KEEL repository [2];
 
 ### Requirements
 The experiments were implemented in Python within the Jupyter Notebook environment. The code and results can be seen by opening the PerformanceMetricsImbalancedDomains.ipynb notebook.
@@ -23,3 +23,5 @@ Furthermore, the following Python packages are required:
 
 ### References
 [1] Gaudreault, J.G., Branco, P., Gama, J. (2021) *"An Analysis of Performance Metrics in Imbalanced Classification"* DS 2021: 24th International Conference on Discovery Science. Halifax, Canada (**to appear**)
+
+[2] Alcalá-Fdez, J., Fernandez, A., Luengo, J., Derrac J., García S., Sánchez L., Herrera, F. (2011) KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework. Journal of Multiple-Valued Logic and Soft Computing.
