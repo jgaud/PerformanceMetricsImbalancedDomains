@@ -16,12 +16,7 @@ Furthermore, the following Python packages are required:
 
 - Pandas (https://pypi.org/project/pandas/)
 - Numpy (https://pypi.org/project/numpy/)
-- Math
-- Os
-- Collections
-- Itertools
 - Matplotlib (https://pypi.org/project/matplotlib/)
-- Copy
 - Krippendorff (https://pypi.org/project/krippendorff/)
 - Scikit-Learn (https://pypi.org/project/scikit-learn/)
 - Pyprg (https://pypi.org/project/pyprg/)
