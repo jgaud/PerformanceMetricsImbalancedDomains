@@ -1,4 +1,4 @@
-## An Analysis of Performance Metrics for Imbalanced Classification - DCS 2021
+## An Analysis of Performance Metrics for Imbalanced Classification - DS 2021
 
 This repository contains all the code used in the empirical tests conducted in the paper *"An Analysis of Performance Metrics in Imbalanced Classification"* [1].
 
