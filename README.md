@@ -22,6 +22,6 @@ Furthermore, the following Python packages are required:
 - Pyprg (https://pypi.org/project/pyprg/)
 
 ### References
-[1] Gaudreault, J.G., Branco, P., Gama, J. (2021) *"An Analysis of Performance Metrics in Imbalanced Classification"* DS 2021: 24th International Conference on Discovery Science. Halifax, Canada (**to appear**)
+[1] Gaudreault JG., Branco P., Gama J. (2021) An Analysis of Performance Metrics for Imbalanced Classification. In: Soares C., Torgo L. (eds) Discovery Science. DS 2021. Lecture Notes in Computer Science, vol 12986. Springer, Cham. https://doi-org.proxy.bib.uottawa.ca/10.1007/978-3-030-88942-5_6
 
 [2] Alcalá-Fdez, J., Fernandez, A., Luengo, J., Derrac J., García S., Sánchez L., Herrera, F. (2011) KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework. Journal of Multiple-Valued Logic and Soft Computing.
